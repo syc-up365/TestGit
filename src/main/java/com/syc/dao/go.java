@@ -6,6 +6,7 @@ public class go {
 		System.out.println("go out right");
 		System.out.println("go out right");
 		System.out.println("go out left");
+		System.out.println("go out left");
 	}
 
 }
